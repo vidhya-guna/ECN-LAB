@@ -24,6 +24,12 @@
 
 **CIRCUIT DIAGRAM:**
 
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/f5ae9539-57a4-4055-9d48-45d1abc53ea1" />
+<img width="861" height="1280" alt="image" src="https://github.com/user-attachments/assets/a45f06bc-e3f6-446d-8678-928c172d6fb9" />
+<img width="875" height="1280" alt="image" src="https://github.com/user-attachments/assets/bd2b1d4a-bcfa-4403-a34d-675c7dda7f0a" />
+
+<img width="784" height="1280" alt="image" src="https://github.com/user-attachments/assets/f9fdd921-ff1d-4c52-877e-66e05c185a40" />
+<img width="829" height="1280" alt="image" src="https://github.com/user-attachments/assets/1f1dd92e-b778-447f-a9d2-4601490dd6f0" />
 
 
 
