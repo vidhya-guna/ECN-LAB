@@ -1,5 +1,7 @@
 # VERIFICATION OF KIRCHHOFF’S LAWS
-
+## NAME: VIDHYA G
+## REF NO: 25018873
+ 
 **AIM:**
 
 *To verify Kirchhoff’s voltage law and Kirchhoff’s current law both theoretically and practically for a given DC circuit.*
@@ -24,10 +26,17 @@
 
 **CIRCUIT DIAGRAM:**
 
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/26a23250-fe02-4517-a445-83371072180d" />
+ 
+<img width="861" height="1280" alt="image" src="https://github.com/user-attachments/assets/d84f83f7-30af-4b4e-8ed6-98cfa07b9dbf" />
+
+<img width="875" height="1280" alt="image" src="https://github.com/user-attachments/assets/34452a37-ddfb-4b6d-bbf4-a66b851fef6e" />
 
 
+<img width="784" height="1280" alt="image" src="https://github.com/user-attachments/assets/09f009b9-a6ef-44b7-81a9-0a3675f60486" />
 
 
+<img width="829" height="1280" alt="image" src="https://github.com/user-attachments/assets/76ec5833-6287-4813-9d58-4d6b5bd05003" />
 
 
 
